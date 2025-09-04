@@ -5,7 +5,7 @@
 
 💡 Interests: Web Development | Artificial Intelligence | Deep Learning 
 
-🛠️ Tech Stack: Python, React, Java, SQL, MySQL, HTML, CSS, JavaScript, Excel
+🛠️ Tech Stack: Python, React, Java, SQL, MySQL, HTML, CSS, JavaScript, Excel, Powerbi
 
 📊 Projects: Emotion Recognition (Text, Audio, Image), Hate Speech Detection, House Price Prediction, Stock Analysis Web App, Movie Explorer App, To do list
 
